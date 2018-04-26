@@ -2015,5 +2015,6 @@ if (typeof responsiveVoice != 'undefined') {
 
   }
   var responsiveVoice = new ResponsiveVoice();
-  module.exports = responsiveVoice;
 }
+
+module.exports = responsiveVoice
